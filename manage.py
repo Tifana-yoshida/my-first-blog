@@ -17,7 +17,7 @@ def main():
     execute_from_command_line(sys.argv)
 
 """
-aaaaaa
+aa
 """
 if __name__ == '__main__':
     main()
